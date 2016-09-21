@@ -20,6 +20,6 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
 <fullyQualifiedTypeName name="com.niit.DAO.UserDAO"/>
-<fullyQualifiedTypeName name="com.niit.model.User"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="com.niit.model.User"/>
 </qualifiedTypeNameHistroy>

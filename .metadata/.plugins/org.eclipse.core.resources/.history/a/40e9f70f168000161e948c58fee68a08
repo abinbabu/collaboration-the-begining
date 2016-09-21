@@ -49,8 +49,8 @@ public class UserDAOImpl implements UserDAO{
 	public List<User> listUser() {
 		String hql = "from User";
 		Query query = sessionFactory.getCurrentSession().createQuery(hql);
-		List<User> listOfUser = query.getResultList();
-		return listOfUser;
+		List<User> listOfUserDetails = query.getResultList();
+		return listOfUserDetails;
 	}
 
 }
