@@ -1,0 +1,348 @@
+2016-09-20 15:52:53,508 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Abin\Desktop\collaboration the begining\col\pom.xml
+2016-09-20 15:52:58,180 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:col:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\col\pom.xml.
+2016-09-20 15:53:00,483 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /col/src/main/java
+2016-09-20 15:53:00,484 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /col/src/main/resources
+2016-09-20 15:53:00,485 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /col/src/test/java
+2016-09-20 15:53:06,521 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 12 sec
+2016-09-20 15:53:07,632 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:53:07,639 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 15:53:07,641 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:53:07,643 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\col\src\test\resources
+2016-09-20 15:53:10,946 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:53:10,951 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 15:53:10,952 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:53:10,954 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\col\src\test\resources
+2016-09-20 15:56:42,783 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml
+2016-09-20 15:56:43,495 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 15:56:44,302 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/main/java
+2016-09-20 15:56:44,303 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CollaborationBackend/src/main/resources
+2016-09-20 15:56:44,304 [Worker-29] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/test/java
+2016-09-20 15:56:46,012 [Worker-29] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-09-20 15:56:46,275 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:56:46,278 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 15:56:46,280 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:56:46,281 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 15:58:44,462 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 15:58:46,259 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.pom
+2016-09-20 15:58:46,292 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:47,342 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/${spring.version}/spring-orm-${spring.version}.pom
+2016-09-20 15:58:47,344 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:48,938 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 15:58:50,338 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.jar
+2016-09-20 15:58:51,580 [Worker-25] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/${spring.version}/spring-orm-${spring.version}.jar
+2016-09-20 15:58:51,636 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:51,638 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:51,742 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 15:58:52,697 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:58:52,701 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 15:58:52,703 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:58:52,720 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 15:58:52,720 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 15:58:52,730 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 15:58:52,738 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:58:54,205 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:54,208 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 15:58:54,371 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 15:58:54,395 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:58:54,396 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 15:58:54,397 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 15:58:54,400 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:01:56,163 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:01:56,166 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:56,170 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:56,367 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:56,369 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:57,092 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:01:57,096 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:01:57,098 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:01:57,099 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:01:57,100 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:01:57,100 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:01:57,105 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:01:58,319 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:58,322 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:01:58,522 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:01:58,524 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:01:58,525 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:01:58,527 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:02:05,988 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:02:05,992 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:05,996 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:06,200 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:02:06,242 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:06,244 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:06,809 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:02:07,407 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:02:07,410 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:02:07,412 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:02:07,413 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:02:07,414 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:02:07,414 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:02:07,418 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:02:07,679 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:07,683 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:02:07,867 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:02:07,895 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:02:07,898 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:02:07,899 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:02:07,900 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:05:55,432 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-20 16:05:55,991 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:05:55,994 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:05:57,523 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/${spring.version}/spring-orm-${spring.version}.pom
+2016-09-20 16:05:57,524 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:05:57,694 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:05:58,800 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/${spring.version}/spring-orm-${spring.version}.jar
+2016-09-20 16:05:58,818 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:05:58,823 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:05:58,914 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:05:59,564 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/main/java
+2016-09-20 16:05:59,565 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CollaborationBackend/src/main/resources
+2016-09-20 16:05:59,565 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/test/java
+2016-09-20 16:05:59,986 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:05:59,991 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:06:00,084 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:06:00,199 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CollaborationBackend
+2016-09-20 16:06:00,225 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-09-20 16:06:00,397 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:06:00,399 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:06:00,544 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:06:00,577 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:06:00,578 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:06:00,580 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:06:00,582 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:06:00,582 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:06:00,582 [Worker-39] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:06:00,586 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:07:25,308 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-20 16:07:25,942 [Worker-35] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:07:27,316 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.pom
+2016-09-20 16:07:27,321 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:27,336 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:27,532 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:07:28,663 [Worker-35] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.jar
+2016-09-20 16:07:28,687 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:28,689 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:28,783 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:07:29,614 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/main/java
+2016-09-20 16:07:29,614 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CollaborationBackend/src/main/resources
+2016-09-20 16:07:29,615 [Worker-35] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/test/java
+2016-09-20 16:07:29,968 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:29,970 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:30,069 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:07:30,170 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CollaborationBackend
+2016-09-20 16:07:30,193 [Worker-35] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-09-20 16:07:30,440 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:30,442 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:07:30,571 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:07:30,800 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:07:30,801 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:07:30,803 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:07:30,804 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:07:30,804 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:07:30,804 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:07:30,807 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:08:23,234 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-20 16:08:23,681 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:08:24,801 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.pom
+2016-09-20 16:08:24,803 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:24,806 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:24,978 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:08:26,090 [Worker-45] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/${spring.version}/spring-webmvc-${spring.version}.jar
+2016-09-20 16:08:26,106 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:26,108 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:26,218 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:08:26,850 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/main/java
+2016-09-20 16:08:26,850 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CollaborationBackend/src/main/resources
+2016-09-20 16:08:26,851 [Worker-45] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/test/java
+2016-09-20 16:08:27,160 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:27,163 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:27,309 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:08:27,407 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CollaborationBackend
+2016-09-20 16:08:27,419 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2016-09-20 16:08:27,643 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-webmvc:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:27,645 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:08:27,762 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:08:27,906 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:08:27,908 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:08:27,909 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:08:27,910 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:08:27,911 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:08:27,911 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:08:27,914 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:13,156 [Worker-43] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:11:14,455 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.pom
+2016-09-20 16:11:14,757 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.pom
+2016-09-20 16:11:15,022 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.pom
+2016-09-20 16:11:15,277 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.pom
+2016-09-20 16:11:15,530 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.pom
+2016-09-20 16:11:15,802 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.pom
+2016-09-20 16:11:16,077 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.pom
+2016-09-20 16:11:16,366 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.pom
+2016-09-20 16:11:16,713 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.pom
+2016-09-20 16:11:16,978 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.pom
+2016-09-20 16:11:17,234 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.pom
+2016-09-20 16:11:17,534 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.pom
+2016-09-20 16:11:17,803 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.pom
+2016-09-20 16:11:18,072 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.pom
+2016-09-20 16:11:18,081 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:11:18,311 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:11:18,582 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.jar
+2016-09-20 16:11:20,681 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.3.2.RELEASE/spring-webmvc-4.3.2.RELEASE.jar
+2016-09-20 16:11:20,933 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar
+2016-09-20 16:11:22,275 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.2.RELEASE/spring-aop-4.3.2.RELEASE.jar
+2016-09-20 16:11:22,513 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar
+2016-09-20 16:11:24,520 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.2.RELEASE/spring-beans-4.3.2.RELEASE.jar
+2016-09-20 16:11:24,758 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar
+2016-09-20 16:11:27,522 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.2.RELEASE/spring-context-4.3.2.RELEASE.jar
+2016-09-20 16:11:27,759 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar
+2016-09-20 16:11:30,025 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.2.RELEASE/spring-core-4.3.2.RELEASE.jar
+2016-09-20 16:11:30,277 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.jar
+2016-09-20 16:11:31,123 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.2.RELEASE/spring-expression-4.3.2.RELEASE.jar
+2016-09-20 16:11:31,378 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar
+2016-09-20 16:11:33,338 [Worker-43] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.2.RELEASE/spring-web-4.3.2.RELEASE.jar
+2016-09-20 16:11:34,606 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:11:34,787 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:11:35,487 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:35,490 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:11:35,492 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:35,493 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:11:35,494 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:11:35,494 [Worker-43] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:11:35,498 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:36,759 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.springframework:spring-orm:jar:${spring.version} is missing, no dependency information available
+2016-09-20 16:11:36,974 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:11:37,241 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:37,244 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:11:37,245 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:11:37,247 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:11:54,550 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:11:55,611 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.pom
+2016-09-20 16:11:55,869 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.pom
+2016-09-20 16:11:56,131 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.2.RELEASE/spring-jdbc-4.3.2.RELEASE.pom
+2016-09-20 16:11:56,407 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.2.RELEASE/spring-jdbc-4.3.2.RELEASE.pom
+2016-09-20 16:11:56,689 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.pom
+2016-09-20 16:11:56,938 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.pom
+2016-09-20 16:11:57,139 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:11:57,434 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.jar
+2016-09-20 16:12:01,659 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.3.2.RELEASE/spring-orm-4.3.2.RELEASE.jar
+2016-09-20 16:12:01,907 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.2.RELEASE/spring-jdbc-4.3.2.RELEASE.jar
+2016-09-20 16:12:04,713 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.2.RELEASE/spring-jdbc-4.3.2.RELEASE.jar
+2016-09-20 16:12:04,990 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar
+2016-09-20 16:12:06,676 [Worker-44] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.2.RELEASE/spring-tx-4.3.2.RELEASE.jar
+2016-09-20 16:12:07,744 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:12:08,312 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:12:08,314 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:12:08,316 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:12:08,318 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:12:08,318 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:12:08,318 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:12:08,322 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:12:09,737 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:12:09,947 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:12:09,951 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:12:09,953 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:12:09,955 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:14:34,907 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:14:36,478 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cn/guoyukun/jdbc/oracle-ojdbc6/11.2.0.3.0/oracle-ojdbc6-11.2.0.3.0.pom
+2016-09-20 16:14:36,485 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-09-20 16:14:38,033 [Worker-51] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/cn/guoyukun/jdbc/oracle-ojdbc6/11.2.0.3.0/oracle-ojdbc6-11.2.0.3.0.jar
+2016-09-20 16:14:38,138 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-09-20 16:14:38,675 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:38,678 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:14:38,679 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:38,680 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:14:38,681 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:14:38,681 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:14:38,686 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:40,052 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for cn.guoyukun.jdbc:oracle-ojdbc6:jar:11.2.0.3.0 is missing, no dependency information available
+2016-09-20 16:14:40,262 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:40,265 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:14:40,267 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:40,268 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:14:56,283 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:14:56,442 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:14:56,557 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:14:57,102 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:57,104 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:14:57,105 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:57,106 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:14:57,107 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:14:57,107 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:14:57,110 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:58,440 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:14:58,660 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:58,663 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:14:58,665 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:14:58,666 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:21:38,596 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:21:38,866 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:21:39,007 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:21:39,894 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:21:39,897 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:21:39,898 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:21:39,899 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:21:39,900 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:21:39,900 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:21:39,903 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:46:44,483 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:46:44,915 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:46:44,918 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:46:44,921 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:46:44,922 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:47:59,157 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:47:59,158 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:47:59,159 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:47:59,160 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:48:10,626 [Worker-73] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-09-20 16:48:11,201 [Worker-73] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 16:48:11,393 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:48:11,502 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:48:12,150 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/main/java
+2016-09-20 16:48:12,150 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CollaborationBackend/src/main/resources
+2016-09-20 16:48:12,151 [Worker-73] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CollaborationBackend/src/test/java
+2016-09-20 16:48:12,778 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:48:12,881 [Worker-73] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CollaborationBackend
+2016-09-20 16:48:12,897 [Worker-73] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-09-20 16:48:13,352 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 16:48:13,641 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:48:13,643 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 16:48:13,644 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 16:48:13,646 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 16:48:13,646 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 16:48:13,647 [Worker-72] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 16:48:13,651 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:02,060 [Worker-82] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 17:12:02,282 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 17:12:02,436 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0 is missing, no dependency information available
+2016-09-20 17:12:03,995 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:03,998 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 17:12:03,999 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:04,001 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 17:12:04,001 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 17:12:04,001 [Worker-82] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 17:12:04,006 [Worker-82] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:17,195 [Worker-84] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.niit:CollaborationBackend:0.0.1-SNAPSHOT @ C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\pom.xml.
+2016-09-20 17:12:18,129 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:18,132 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 17:12:18,134 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:18,136 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 17:12:18,136 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CollaborationBackend
+2016-09-20 17:12:18,137 [Worker-84] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CollaborationBackend
+2016-09-20 17:12:18,141 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:19,698 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:19,700 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 17:12:19,702 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:12:19,703 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-20 17:17:07,791 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:17:07,870 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-20 17:17:07,873 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-20 17:17:07,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-21 00:38:55,588 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-21 00:38:55,622 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-21 00:38:55,627 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-21 00:38:55,628 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
+2016-09-21 09:52:55,800 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-21 09:52:55,835 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-09-21 09:52:55,838 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-09-21 09:52:55,840 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend\src\test\resources
