@@ -23,7 +23,7 @@ public class ApplicationContextConfig {
 	public DataSource getOracleDatasource() {
 		DriverManagerDataSource datasource = new DriverManagerDataSource();
 		datasource.setDriverClassName("oracle.jdbc.driver.OracleDriver");
-		datasource.setUrl("jdbc:oracle:thin:@localhost:1521:oracledb");
+		datasource.setUrl("jdbc:oracle:thin:@localhost:1521:XE");
 		datasource.setUsername("niituser");
 		datasource.setPassword("oracle");
 		return datasource;
@@ -33,7 +33,7 @@ public class ApplicationContextConfig {
 		Properties properties = new Properties();
 		properties.put("hibernate.show_sql", "true");
 		properties.put("hibernate.format_sql", "true");		
-		properties.put("hibernate.dialect", "org.hibernate.dialect.OracleDialect");
+		properties.put("hibernate.dialect", "org.hibernate.dialect.Oracle10gDialect");
 		properties.put("hibernate.hbm2ddl.auto", "update");
 		return properties;
 	}

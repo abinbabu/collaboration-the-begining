@@ -1,0 +1,19 @@
+package com.niit.DAOImpl;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
+import com.niit.DAO.UserDAO;
+
+@Repository("userDAO")
+public class UserDAOImpl implements UserDAO{
+	
+	@Autowired
+	SessionFactory sessionFactory;
+	
+	public UserDAOImpl(SessionFactory sessionFactory) {
+		this.sessionFactory = sessionFactory;
+	}
+
+}

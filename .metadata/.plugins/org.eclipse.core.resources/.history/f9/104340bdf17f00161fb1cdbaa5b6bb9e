@@ -1,0 +1,35 @@
+package com.niit.DAOImpl;
+
+import org.hibernate.SessionFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+import org.springframework.transaction.annotation.Transactional;
+
+import com.niit.DAO.UserDAO;
+import com.niit.model.User;
+
+@Repository("userDAO")
+public class UserDAOImpl implements UserDAO{
+	
+	@Autowired
+	SessionFactory sessionFactory;
+	
+	public UserDAOImpl(SessionFactory sessionFactory) {
+		this.sessionFactory = sessionFactory;
+	}
+	
+	@Transactional
+	public void saveOrUpdateUser(User user) {
+		sessionFactory.getCurrentSession().saveOrUpdate(user);
+
+	}
+	
+	@Transactional
+	public void deleteUser(String id) {
+		User userToDelete = new User();
+		userToDelete.setUserId(id);
+		sessionFactory.getCurrentSession().delete(userToDelete);
+
+	}
+
+}
