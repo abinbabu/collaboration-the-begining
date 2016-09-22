@@ -1,12 +1,14 @@
 package com.niit.model;
 
+import java.util.Date;
+
 import javax.persistence.Entity;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
 import org.springframework.stereotype.Component;
 
-import oracle.sql.DATE;
+
 
 
 
@@ -23,10 +25,16 @@ public class Blog {
 	private String userId;
 	private String blogDescription;
 	private char status;
-	private DATE DateTime;
+	private Date DateTime;
 	
 	
 	
+	public Date getDateTime() {
+		return DateTime;
+	}
+	public void setDateTime(Date dateTime) {
+		DateTime = dateTime;
+	}
 	public String getBlogId() {
 		return blogId;
 	}
@@ -57,12 +65,7 @@ public class Blog {
 	public void setStatus(char status) {
 		this.status = status;
 	}
-	public DATE getDateTime() {
-		return DateTime;
-	}
-	public void setDateTime(DATE dateTime) {
-		DateTime = dateTime;
-	}
+	
 	
 	
 	

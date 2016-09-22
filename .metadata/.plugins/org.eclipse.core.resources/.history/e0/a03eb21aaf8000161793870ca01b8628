@@ -1,0 +1,30 @@
+package com.niit.test;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.niit.DAO.BlogDAO;
+import com.niit.model.Blog;
+
+public class BlogTest {
+
+	public static void main(String[] args) {
+		
+		@SuppressWarnings("resource")
+		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
+		context.scan("com.niit");
+		context.refresh();
+		
+		Blog blog = (Blog) context.getBean("blog");
+		BlogDAO blogDAO = (BlogDAO) context.getBean("blogDAO");
+		
+		blog.setBlogId("bg1");
+		blog.setBlogTitle("starts");
+		blog.setUserId("US1");
+		blog.setBlogDescription("this is first blog this is first blog"
+				+"this is first blog this is first blog"
+				+"this is first blog this is first blog"
+				+"this is first blog this is first blog");
+
+	}
+
+}
