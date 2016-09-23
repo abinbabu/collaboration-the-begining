@@ -28,17 +28,17 @@ public class UserDAOImpl implements UserDAO{
 	}
 	
 	@Transactional
-	public void deleteUser(String id) {
+	public void deleteUser(String userId) {
 		User userToDelete = new User();
-		userToDelete.setId(id);
+		userToDelete.setUserId(userId);
 		sessionFactory.getCurrentSession().delete(userToDelete);
 
 	}
 	
 	@Transactional
-	public User getUser(String id) {
-		String hql = "from User where id=:id";
-		Query query = sessionFactory.getCurrentSession().createQuery(hql).setParameter("id", id);
+	public User getUser(String userId) {
+		String hql = "from User where userId=:userId";
+		Query query = sessionFactory.getCurrentSession().createQuery(hql).setParameter("userId", userId);
 		List<User> gotUser = query.getResultList();
 		if (gotUser != null && !gotUser.isEmpty())
 			return gotUser.get(0);

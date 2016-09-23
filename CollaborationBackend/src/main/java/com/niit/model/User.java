@@ -12,7 +12,8 @@ import org.springframework.stereotype.Component;
 public class User {
 	
 	@Id
-	private String id;
+	private String userId;
+	
 	private String name;
 	private String email;
 	private String password;
@@ -20,11 +21,11 @@ public class User {
 	private int mobile;
 	
 	
-	public String getId() {
-		return id;
+	public String getUserId() {
+		return userId;
 	}
-	public void setId(String id) {
-		this.id = id;
+	public void setUserId(String userId) {
+		this.userId = userId;
 	}
 	public String getName() {
 		return name;

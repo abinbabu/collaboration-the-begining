@@ -1,0 +1,6 @@
+package com.niit.DAOImpl;
+
+@Repository("blogCommentDAO")
+public class BlogCommentDAOImpl {
+
+}

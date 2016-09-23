@@ -8,9 +8,9 @@ public interface UserDAO {
 	
 void saveOrUpdateUser(User user);
 	
-	void deleteUser(String id);
+	void deleteUser(String userId);
 	
-	User getUser(String id);
+	User getUser(String userId);
 	
 	List<User> listUser();
 

@@ -17,7 +17,7 @@ public class UserTest {
 		User user = (User) context.getBean("user");
 		
 		// Create Operation
-		user.setId("US1");
+		user.setUserId("US2");
 		user.setName("user");
 		user.setEmail("u@a.com");
 		user.setPassword("password");

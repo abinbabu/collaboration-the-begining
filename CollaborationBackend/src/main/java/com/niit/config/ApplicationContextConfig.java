@@ -15,6 +15,9 @@ import org.springframework.orm.hibernate5.LocalSessionFactoryBuilder;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 import com.niit.model.Blog;
+import com.niit.model.BlogComment;
+import com.niit.model.Event;
+import com.niit.model.Forum;
 import com.niit.model.User;
 
 @Configuration
@@ -47,6 +50,9 @@ public class ApplicationContextConfig {
 		sessionBuilder.addProperties(getHibernateProperties());
 		sessionBuilder.addAnnotatedClass(User.class);
 		sessionBuilder.addAnnotatedClass(Blog.class);
+		sessionBuilder.addAnnotatedClass(BlogComment.class);
+		sessionBuilder.addAnnotatedClass(Event.class);
+		sessionBuilder.addAnnotatedClass(Forum.class);
 		return sessionBuilder.buildSessionFactory();
 	}
 	

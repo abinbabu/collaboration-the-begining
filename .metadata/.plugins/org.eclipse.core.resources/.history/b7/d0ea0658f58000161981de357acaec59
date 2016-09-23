@@ -1,0 +1,10 @@
+package com.niit.test;
+
+public class BlogCommentTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
