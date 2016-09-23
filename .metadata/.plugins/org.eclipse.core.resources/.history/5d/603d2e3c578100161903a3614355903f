@@ -20,7 +20,6 @@ import com.niit.model.Event;
 import com.niit.model.Forum;
 import com.niit.model.ForumPost;
 import com.niit.model.ForumPostComment;
-import com.niit.model.JobOpportunity;
 import com.niit.model.User;
 
 @Configuration

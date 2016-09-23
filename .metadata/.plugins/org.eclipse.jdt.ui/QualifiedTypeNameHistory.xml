@@ -21,15 +21,23 @@
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
 <fullyQualifiedTypeName name="com.niit.model.BlogComment"/>
 <fullyQualifiedTypeName name="com.niit.DAO.BlogCommentDAO"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="com.niit.DAO.EventDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.Event"/>
+<fullyQualifiedTypeName name="com.niit.DAO.ForumDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.Forum"/>
+<fullyQualifiedTypeName name="com.niit.DAO.ForumPostDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.ForumPost"/>
+<fullyQualifiedTypeName name="com.niit.DAO.ForumPostCommentDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.ForumPostComment"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
-<fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="com.niit.DAO.EventDAO"/>
-<fullyQualifiedTypeName name="com.niit.model.Event"/>
+<fullyQualifiedTypeName name="com.niit.DAO.JobOpportunityDAO"/>
+<fullyQualifiedTypeName name="com.niit.model.JobOpportunity"/>
 </qualifiedTypeNameHistroy>
