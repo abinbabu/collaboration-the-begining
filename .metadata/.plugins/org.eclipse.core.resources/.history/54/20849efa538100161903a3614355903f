@@ -1,0 +1,26 @@
+package com.niit.test;
+
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.niit.DAO.ForumPostCommentDAO;
+import com.niit.model.ForumPostComment;
+
+
+
+public class ForumPostCommentTest {
+
+	public static void main(String[] args) {
+		
+		@SuppressWarnings("resource")
+		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
+		context.scan("com.niit");
+		context.refresh();
+		ForumPostCommentDAO forumpostCommentDAO = (ForumPostCommentDAO) context.getBean("forumpostcommentDAO");
+		ForumPostComment forumpostComment = (ForumPostComment) context.getBean("forumpostComment");
+		
+		
+		
+
+	}
+
+}
