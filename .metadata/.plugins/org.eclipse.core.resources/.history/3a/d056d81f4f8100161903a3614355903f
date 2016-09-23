@@ -1,0 +1,7 @@
+package com.niit.DAOImpl;
+
+import com.niit.DAO.ForumPostDAO;
+
+public class ForumPostDAOImpl implements ForumPostDAO{
+
+}

@@ -18,6 +18,7 @@ import com.niit.model.Blog;
 import com.niit.model.BlogComment;
 import com.niit.model.Event;
 import com.niit.model.Forum;
+import com.niit.model.ForumPost;
 import com.niit.model.User;
 
 @Configuration
@@ -53,6 +54,7 @@ public class ApplicationContextConfig {
 		sessionBuilder.addAnnotatedClass(BlogComment.class);
 		sessionBuilder.addAnnotatedClass(Event.class);
 		sessionBuilder.addAnnotatedClass(Forum.class);
+		sessionBuilder.addAnnotatedClass(ForumPost.class);
 		return sessionBuilder.buildSessionFactory();
 	}
 	
