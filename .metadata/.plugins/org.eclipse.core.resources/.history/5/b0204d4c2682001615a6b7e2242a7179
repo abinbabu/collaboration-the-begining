@@ -1,0 +1,15 @@
+package com.niit.JUtest;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.niit.DAO.EventDAO;
+
+public class EventJUtest {
+
+	@Autowired
+	EventDAO eventDAO;
+	
+}

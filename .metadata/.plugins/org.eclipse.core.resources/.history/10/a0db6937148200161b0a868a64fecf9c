@@ -1,0 +1,7 @@
+package com.niit.JUtest;
+
+import junit.framework.TestCase;
+
+public class UserJuTest extends TestCase {
+
+}

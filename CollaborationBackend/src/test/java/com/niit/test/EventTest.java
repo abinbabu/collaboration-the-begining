@@ -18,10 +18,10 @@ public class EventTest {
 		AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext();
 		context.scan("com.niit");
 		context.refresh();
-		EventDAO eventDAO = (EventDAO) context.getBean("EventDAO");
+		EventDAO eventDAO = (EventDAO) context.getBean("eventDAO");
 		Event event = (Event) context.getBean("event");
 		
-		event.setEventId("ev1");
+		event.setEventId("ev2");
 		event.setContent("today is holy day for niit");
 		event.setDateTime(new Date(System.currentTimeMillis()));
 		eventDAO.saveOrUpdateEvent(event);

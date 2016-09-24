@@ -10,7 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import com.niit.DAO.EventDAO;
 import com.niit.model.Event;
-@Repository("EventDAO") 
+@Repository("eventDAO") 
 public class EventDAOImpl implements EventDAO{
 	
 	@Autowired
