@@ -1,0 +1,12 @@
+127.0.0.1 - - [26/Sep/2016:17:19:35 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:19:36 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:19:48 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:20:12 +0530] "GET /CollaborationBackend/blogs HTTP/1.1" 404 996
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:32:19 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:32:26 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:32:48 +0530] "GET /CollaborationBackend/blogs/ HTTP/1.1" 404 996
+127.0.0.1 - - [26/Sep/2016:17:34:02 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:34:03 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:34:07 +0530] "GET /CollaborationBackend/blogs/ HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:35:09 +0530] "GET /CollaborationBackend/blogs/ HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [26/Sep/2016:17:35:09 +0530] "GET /CollaborationBackend/blogs/ HTTP/1.1" 200 273

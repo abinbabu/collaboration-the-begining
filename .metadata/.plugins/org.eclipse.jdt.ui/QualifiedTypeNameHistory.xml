@@ -11,12 +11,10 @@
 <fullyQualifiedTypeName name="org.springframework.orm.hibernate5.LocalSessionFactoryBuilder"/>
 <fullyQualifiedTypeName name="com.niit.model.User"/>
 <fullyQualifiedTypeName name="oracle.sql.DATE"/>
-<fullyQualifiedTypeName name="com.niit.model.Blog"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
-<fullyQualifiedTypeName name="com.niit.model.BlogComment"/>
 <fullyQualifiedTypeName name="javax.persistence.Table"/>
 <fullyQualifiedTypeName name="com.niit.model.Event"/>
 <fullyQualifiedTypeName name="com.niit.model.Forum"/>
@@ -28,9 +26,7 @@
 <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
 <fullyQualifiedTypeName name="org.springframework.transaction.annotation.Transactional"/>
 <fullyQualifiedTypeName name="org.hibernate.query.Query"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.niit.model.JobOpportunity"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
 <fullyQualifiedTypeName name="com.niit.DAO.UserDAO"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
 <fullyQualifiedTypeName name="org.junit.Before"/>
@@ -39,6 +35,17 @@
 <fullyQualifiedTypeName name="com.niit.DAO.ForumPostCommentDAO"/>
 <fullyQualifiedTypeName name="com.niit.DAO.ForumDAO"/>
 <fullyQualifiedTypeName name="com.niit.DAO.EventDAO"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="com.niit.model.Blog"/>
+<fullyQualifiedTypeName name="com.niit.model.BlogComment"/>
 <fullyQualifiedTypeName name="com.niit.DAO.BlogDAO"/>
 <fullyQualifiedTypeName name="com.niit.DAO.BlogCommentDAO"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.http.ResponseEntity"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.EnableWebMvc"/>
+<fullyQualifiedTypeName name="org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
 </qualifiedTypeNameHistroy>
