@@ -6,7 +6,7 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
 
 	@Override
 	protected Class[] getRootConfigClasses() {
-		System.out.println("Test");
+		System.out.println("Testing");
 		return new Class[] { ApplicationContextConfig.class};
 	}
 
@@ -18,7 +18,7 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
 
 	@Override
 	protected String[] getServletMappings() {
-		System.out.println("Working");
+		System.out.println("Working....");
 		return new String[] { "/" };
 	}
 
