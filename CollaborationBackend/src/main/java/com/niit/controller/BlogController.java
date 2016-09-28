@@ -71,7 +71,7 @@ public class BlogController {
 		blogDAO.saveOrUpdateBlog(blog);
 
 		HttpHeaders headers = new HttpHeaders();
-		headers.setLocation(ucBuilder.path("blog/{id}/").buildAndExpand(blog.getBlogId()).toUri());
+		headers.setLocation(ucBuilder.path("blogs/{blogId}/").buildAndExpand(blog.getBlogId()).toUri());
 		return new ResponseEntity<Void>(headers, HttpStatus.CREATED);
 
 	}
