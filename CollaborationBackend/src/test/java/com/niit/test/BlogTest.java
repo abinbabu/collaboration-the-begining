@@ -19,10 +19,10 @@ public class BlogTest {
 		Blog blog = (Blog) context.getBean("blog");
 		
 		
-		blog.setBlogId("bg1");
+		blog.setBlogId("bg2");
 		blog.setBlogTitle("starts");
 		blog.setUserId("US1");
-		blog.setBlogDescription("this is first blog this is first blog"
+		blog.setBlogDescription("opsthis is first blog this is first blog"
 				+"this is first blog this is first blog"
 				+"this is first blog this is first blog"
 				+"this is first blog this is first blog");
