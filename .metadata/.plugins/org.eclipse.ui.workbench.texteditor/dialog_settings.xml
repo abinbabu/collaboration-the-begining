@@ -2,19 +2,22 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="ABOUT" key="selection"/>
+		<item value="##" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
-			<item value="about"/>
 			<item value="mobirise.com"/>
+			<item value="assets"/>
+			<item value="about"/>
 			<item value="https://mobirise.com/"/>
 			<item value="login"/>
 			<item value="ora"/>
 		</list>
 		<list key="replacehistory">
+			<item value="##"/>
+			<item value="sty"/>
 			<item value="#"/>
 		</list>
 	</section>

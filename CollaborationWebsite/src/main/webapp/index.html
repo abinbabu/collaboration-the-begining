@@ -25,9 +25,10 @@
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular-route.js"></script>
 </head>
 <body>
+<div ng-view></div>
 <section id="menu-0">
 
-    <nav class="navbar navbar-dropdown bg-color transparent">
+    <nav class="navbar navbar-dropdown bg-color transparent navbar-fixed-top">
         <div class="container">
 
             <div class="mbr-table">
@@ -40,12 +41,12 @@
 
                 </div>
                 <div class="mbr-table-cell">
-					<div ng-view></div>
+					
                     <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="hamburger-icon"></div>
                     </button>
 
-                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="#">LOGIN</a></li><li class="nav-item"><a class="nav-link link" href="#">REGISTER</a></li><li class="nav-item"><a class="nav-link link" href="#/about">ABOUT US</a></li></ul>
+                    <ul class="nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="#/about">ABOUT ME</a></li><li class="nav-item"><a class="nav-link link" href="https://##/">LOGIN</a></li><li class="nav-item"><a class="nav-link link" href="https://##/">REGISTER</a></li><li class="nav-item"><a class="nav-link link" href="https://##/">EVENTS</a></li><li class="nav-item"><a class="nav-link link" href="https://##/">JOB OPPORTUNITY</a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="https://##/" aria-expanded="false">FORUM</a><div class="dropdown-menu"><a class="dropdown-item" href="https://##/">VISIT FORUMS</a><a class="dropdown-item" href="https://##/">CREATE NEW FORUM</a></div></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="https://##/" aria-expanded="false">BLOG</a><div class="dropdown-menu"><a class="dropdown-item" href="http://forums.##/">VISIT BLOG</a><a class="dropdown-item" href="https://##/">CREATE BLOG</a></div></li></ul>
                     <button hidden="" class="navbar-toggler navbar-close" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
                         <div class="close-icon"></div>
                     </button>
