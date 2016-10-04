@@ -144,7 +144,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Abin\Desktop\collaboration the begining\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Abin\Desktop\collaboration the begining\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\CollaborationBackend" path="/CollaborationBackend" reloadable="true" source="org.eclipse.jst.j2ee.server:CollaborationBackend"/></Host>
+      <Context docBase="C:\Users\Abin\Desktop\collaboration the begining\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Abin\Desktop\collaboration the begining\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\CollaborationBackend" path="/CollaborationBackend" reloadable="true" source="org.eclipse.jst.j2ee.server:CollaborationBackend"/><Context docBase="C:\Users\Abin\Desktop\collaboration the begining\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\CollaborationWebsite" path="/CollaborationWebsite" reloadable="true" source="org.eclipse.jst.j2ee.server:CollaborationWebsite"/></Host>
     </Engine>
   </Service>
 </Server>

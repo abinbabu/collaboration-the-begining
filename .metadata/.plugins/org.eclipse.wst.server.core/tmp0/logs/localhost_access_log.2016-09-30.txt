@@ -1,0 +1,6 @@
+127.0.0.1 - - [30/Sep/2016:15:48:51 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [30/Sep/2016:15:48:52 +0530] "GET /CollaborationBackend/ HTTP/1.1" 404 1040
+127.0.0.1 - - [30/Sep/2016:15:51:28 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [30/Sep/2016:15:51:28 +0530] "GET /CollaborationBackend/ HTTP/1.1" 200 57
+0:0:0:0:0:0:0:1 - - [30/Sep/2016:15:51:44 +0530] "GET /CollaborationBackend/users HTTP/1.1" 404 996
+0:0:0:0:0:0:0:1 - - [30/Sep/2016:15:51:49 +0530] "GET /CollaborationBackend/users/ HTTP/1.1" 200 224

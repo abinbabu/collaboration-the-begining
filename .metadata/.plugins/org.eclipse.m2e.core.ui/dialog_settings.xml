@@ -44,6 +44,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Abin\Desktop\collaboration the begining\CollaborationWebsite"/>
+			<item value="C:\Users\Abin\Desktop\collaboration the begining\CollaborationBackend"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -56,15 +58,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="com.niit.CollaborationBackend"/>
-			<item value="com.niit.col"/>
 		</list>
 		<list key="groupId">
-			<item value="com.niit"/>
 		</list>
 		<list key="artifactId">
-			<item value="CollaborationBackend"/>
-			<item value="col"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
