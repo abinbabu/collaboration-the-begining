@@ -58,10 +58,13 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="coiaic.ac.ascas"/>
 		</list>
 		<list key="groupId">
+			<item value="coiaic.ac"/>
 		</list>
 		<list key="artifactId">
+			<item value="ascas"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

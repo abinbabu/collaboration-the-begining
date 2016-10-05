@@ -328,7 +328,6 @@
   <script type="text/javascript" src=user.service.js></script>
   <script type="text/javascript" src="user.service.local-storage.js"></script>
  
-  <script src="c_user/register.controller.js"></script>
   
   <input name="animation" type="hidden">
   </body>
