@@ -1,0 +1,65 @@
+<div class="container-fluid">
+	<br>
+
+	<div class="inner-content col-md-4">
+		<form action="">
+			<h2 class="ctitle">Login</h2> 
+			<br>
+
+			<div class="input-field">
+				<input type="text" id="login-email">
+				<label for="login-email">Email Id</label>
+			</div>
+			<div class="input-field">
+				<input type="text" id="login-password">
+				<label for="login-password">Password</label>
+			</div>
+			<br>
+			<input type="submit" value="Login" class="btn btn-primary waves-effect waves-dark">
+		</form>
+	</div>
+	<div class="inner-content col-md-offset-2 col-md-6">
+		<form action="">
+			<h2 class="ctitle">Sign Up</h2>
+			<br>
+			<div class="input-field">
+				<input type="text" id="register-email" ng-model="register-email">
+				<label for="register-email">Email Id</label>
+			</div>
+			<div class="input-field"><input type="text" id="register-name" ng-model="register-name">
+				<label for="register-name">Full Name</label></div>
+				<br>
+
+				<fieldset><legend>Role</legend>
+				<input class="with-gap" name="role" type="radio" value="ROLE_STUDENT" id="student-radio" ng-model="register-role" />
+					<label for="student-radio">Student</label>
+
+					<input class="with-gap" name="role" type="radio" value="ROLE_ALUMNI" id="alumni-radio" ng-model="register-role" />
+					<label for="alumni-radio">Alumni</label>
+
+					<input class="with-gap" name="role" type="radio" id="employee-radio" value="ROLE_EMPLOYEE" ng-model="register-role" />
+					<label for="employee-radio">Employee</label>
+				</fieldset>
+
+				<br>
+
+				<fieldset><legend>Gender</legend>
+					<input class="with-gap" name="gender" type="radio" id="gender-male" value="male" ng-model="register-gender" />
+					<label for="gender-male">Male</label>
+
+					<input class="with-gap" name="gender" type="radio" id="gender-female" value="female" ng-model="register-gender" />
+					<label for="gender-female">Female</label>
+				</fieldset>
+
+				<div class="input-field">
+					<input type="text" id="register-password" ng-model="register-password" >
+					<label for="register-password" >Password</label>
+				</div>
+				<div class="input-field">
+					<input type="text" id="register-confirm-password">
+					<label for="register-confirm-password">Confirm Password</label>
+				</div>
+				<input type="submit" value="Sign Up" class="btn btn-success">
+			</form>
+		</div>
+	</div>

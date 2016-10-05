@@ -1310,3 +1310,16 @@
 0:0:0:0:0:0:0:1 - - [04/Oct/2016:22:52:16 +0530] "GET /CollaborationWebsite/sty/bootstrap/css/bootstrap.min.css HTTP/1.1" 404 1110
 0:0:0:0:0:0:0:1 - - [04/Oct/2016:22:52:16 +0530] "GET /CollaborationWebsite/sty/theme/css/style.css HTTP/1.1" 404 1086
 0:0:0:0:0:0:0:1 - - [04/Oct/2016:22:52:16 +0530] "GET /CollaborationWebsite/sty/mobirise/css/mbr-additional.css HTTP/1.1" 404 1110
+127.0.0.1 - - [04/Oct/2016:23:27:00 +0530] "GET / HTTP/1.1" 404 998
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:01 +0530] "GET /CollaborationWebsite/ HTTP/1.1" 200 19340
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:01 +0530] "GET /CollaborationWebsite/app.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:01 +0530] "GET /CollaborationWebsite/c_home/home.html HTTP/1.1" 404 1072
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/c_about/about.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/theme/css/style.css HTTP/1.1" 404 1086
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/animate.css/animate.min.css HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/bootstrap-material-design-font/css/material.css HTTP/1.1" 404 1142
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/mobirise/css/mbr-additional.css HTTP/1.1" 404 1110
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/tether/tether.min.css HTTP/1.1" 404 1090
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/socicon/css/socicon.min.css HTTP/1.1" 404 1102
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/et-line-font-plugin/style.css HTTP/1.1" 404 1106
+0:0:0:0:0:0:0:1 - - [04/Oct/2016:23:27:04 +0530] "GET /CollaborationWebsite/sty/bootstrap/css/bootstrap.min.css HTTP/1.1" 404 1110
