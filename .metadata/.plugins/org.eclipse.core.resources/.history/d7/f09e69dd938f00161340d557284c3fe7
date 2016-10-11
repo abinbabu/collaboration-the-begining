@@ -1,0 +1,57 @@
+
+<!doctype html>
+<html>
+<head>
+<title>Please login </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Hifi Login Form Widget Responsive, Login form web template,Flat Pricing tables,Flat Drop downs  Sign up Web Templates, Flat Web Templates, Login signup Responsive web template, Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- font files  -->
+<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family=Play:400,700' rel='stylesheet' type='text/css'>
+<!-- /font files  -->
+<!-- css files -->
+<link href="c_user/css/stylel.css" rel='stylesheet' type='text/css' media="all" />
+<!-- /css files -->
+</head>
+<body>
+<h1></h1>
+<br>
+<br>
+<div class="content-w3ls">
+	<form action="#" method="post">
+		<div class="form-group1-agile">
+			<label class="user">Username</label>
+			<input type="text" name="userid" value="ENTER YOUR USERNAME HERE" onfocus="this.value = '';" 
+			onblur="if (this.value == '') {this.value = 'ENTER YOUR USERNAME HERE';}">
+		</div>
+		<br>
+	<br>
+		<div class="form-group2-agile">
+			<label class="pwd">Password</label>
+			<input type="password" name="psw" value="ENTER YOUR PASSWORD HERE" onfocus="this.value = '';" 
+			onblur="if (this.value == '') {this.value = 'ENTER YOUR PASSWORD HERE';}">
+		</div>
+		
+
+		<input type="submit" value="LOG IN">
+		
+	</form>	
+</div>
+<div class="footer-w3ls">
+	<h1></h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	
+</div>
+</body>
+</html>
